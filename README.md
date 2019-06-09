@@ -1,4 +1,3 @@
-# hello-world
-just another repository
+# Hi, I'm Chris.
 
-Here I am makine changes to this file. But they only exist in this branch. 
+I'm testing out a few things while a build a new website.
